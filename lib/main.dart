@@ -3,6 +3,7 @@ import 'package:lugat_home_work/home_pagr.dart';
 import 'package:lugat_home_work/page_dictionary.dart';
 
 void main() {
+  //bjbghbhmbhmbm
   runApp(const MyApp());
 }
 
@@ -28,6 +29,7 @@ class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
   final String title;
+
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
